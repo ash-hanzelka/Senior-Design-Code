@@ -1,0 +1,22 @@
+This is the mac address detail outputs from macAddDeets.ino
+
+FOR COMMUNICATION, WE USED STATION MAC ADDR
+
+Ash:
+    IP Address: 172.20.10.6
+  Station MAC: 48:E7:29:B3:F0:88
+    SoftAP MAC: 48:E7:29:B3:F0:89
+    Bluetooth MAC: 48:E7:29:B3:F0:8A
+    Ethernet MAC: 48:E7:29:B3:F0:8B
+
+
+Noah:
+
+
+
+James:
+
+
+
+Jr:
+
