@@ -3,29 +3,33 @@ This is the mac address detail outputs from macAddDeets.ino
 FOR COMMUNICATION, WE USED STATION MAC ADDR
 
 Ash:
-    IP Address: 172.20.10.6
-  Station MAC: 48:E7:29:B3:F0:88
-    SoftAP MAC: 48:E7:29:B3:F0:89
-    Bluetooth MAC: 48:E7:29:B3:F0:8A
-    Ethernet MAC: 48:E7:29:B3:F0:8B
+        IP Address: 172.20.10.6
+    Station MAC: 48:E7:29:B3:F0:88
+        SoftAP MAC: 48:E7:29:B3:F0:89
+        Bluetooth MAC: 48:E7:29:B3:F0:8A
+        Ethernet MAC: 48:E7:29:B3:F0:8B
 
 
 Noah:
-IP Address: 172.20.10.10
-Station MAC: A0:B7:65:63:20:34
-SoftAP MAC: A0:B7:65:63:20:35
-Bluetooth MAC: A0:B7:65:63:20:36
-Ethernet MAC: A0:B7:65:63:20:37
+        IP Address: 172.20.10.10
+    Station MAC: A0:B7:65:63:20:34
+        SoftAP MAC: A0:B7:65:63:20:35
+        Bluetooth MAC: A0:B7:65:63:20:36
+        Ethernet MAC: A0:B7:65:63:20:37
 
 
 
 James:
-IP Address: 172.20.10.8
-Station MAC: A0:B7:65:64:2E:A4
-SoftAP MAC: A0:B7:65:64:2E:A5
-Bluetooth MAC: A0:B7:65:64:2E:A6
-Ethernet MAC: A0:B7:65:64:2E:A7
+        IP Address: 172.20.10.8
+    Station MAC: A0:B7:65:64:2E:A4
+        SoftAP MAC: A0:B7:65:64:2E:A5
+        Bluetooth MAC: A0:B7:65:64:2E:A6
+        Ethernet MAC: A0:B7:65:64:2E:A7
 
 
 Jr:
-
+        IP Address: 172.20.10.11
+    Station MAC: A0:B7:65:63:20:E4
+        SoftAP MAC: A0:B7:65:63:20:E5
+        Bluetooth MAC: A0:B7:65:63:20:E6
+        Ethernet MAC: A0:B7:65:63:20:E7
