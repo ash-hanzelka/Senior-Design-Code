@@ -20,7 +20,11 @@ Ethernet MAC: A0:B7:65:63:20:37
 
 
 James:
-
+IP Address: 172.20.10.8
+Station MAC: A0:B7:65:64:2E:A4
+SoftAP MAC: A0:B7:65:64:2E:A5
+Bluetooth MAC: A0:B7:65:64:2E:A6
+Ethernet MAC: A0:B7:65:64:2E:A7
 
 
 Jr:
