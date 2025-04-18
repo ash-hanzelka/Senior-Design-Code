@@ -11,6 +11,11 @@ Ash:
 
 
 Noah:
+IP Address: 172.20.10.10
+Station MAC: A0:B7:65:63:20:34
+SoftAP MAC: A0:B7:65:63:20:35
+Bluetooth MAC: A0:B7:65:63:20:36
+Ethernet MAC: A0:B7:65:63:20:37
 
 
 
