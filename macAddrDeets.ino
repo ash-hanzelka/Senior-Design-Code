@@ -69,3 +69,43 @@ void setup() {
 void loop() {
 
 }
+
+
+
+
+/* The following code works as well, use when the code above doesnt work
+#include <WiFi.h>
+
+// Replace with your actual network credentials
+const char* ssid = "Noaaah";
+const char* password = "qwerty123";
+
+void setup() {
+  Serial.begin(115200);
+
+  // Begin Wi-Fi connection
+  WiFi.begin(ssid, password);
+  Serial.println("Connecting to WiFi...");
+
+  // Wait until connected
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(1000);
+    Serial.print(".");
+  }
+
+  Serial.println("\nConnected to WiFi!");
+  
+  // Print the local IP address
+  Serial.print("IP Address: ");
+  Serial.println(WiFi.localIP());
+
+  // Print the MAC address of the Wi-Fi station interface
+  Serial.print("Wi-Fi MAC Address: ");
+  Serial.println(WiFi.macAddress());
+}
+
+void loop() {
+  // Nothing to do in the loop
+}
+
+*/
